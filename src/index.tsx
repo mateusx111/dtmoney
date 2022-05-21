@@ -26,8 +26,8 @@ createServer({
           category:'Casa',
           amount:'1100',
           createdAt: new Date('2022-04-10 16:00:00'),
-        }
-      ]
+        },
+      ],
     })
   },
   routes(){
@@ -39,9 +39,14 @@ createServer({
 
     this.post('/transaction', (schema, request) =>{
       const data = JSON.parse(request.requestBody)
+      
+      data.createdAt = new Date()
+
       return schema.create('transaction', data);
     })
-  }
+
+    this.delete("/transactions/:id")
+  },
 })
 
 ReactDOM.render(
