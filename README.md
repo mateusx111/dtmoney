@@ -17,9 +17,8 @@ A tive muito aprendizado pelas boas práticas, organização de código e lógic
 
 <h3 id="funcionalidades"> ✅ Funcionalidades </h3>
 
-- [x] Adicionar novas transações;
+- [x] Cadastrar novas transações;
 - [x] Ver o histórico de transações;
-- [x] Excluir transações.
 
 <h3 id="tecnologias"/>🛠 Tecnologias </h3>
 
