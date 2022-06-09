@@ -1,1 +1,1 @@
-<p align="center">Um site de finanças pessoais onde você pode adicionar e remover gastos/ganhos, vendo o histórico e o valor acumulado. </p>
+<p align="center">Um site de finanças pessoais onde você pode gerenciar gastos e ganhos, vendo o histórico e o valor acumulado. </p>
