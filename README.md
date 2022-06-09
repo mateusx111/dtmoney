@@ -29,7 +29,7 @@ A tive muito aprendizado pelas boas práticas, organização de código e lógic
 
 ```
 # Clone esse repositório
-$ git clone https://github.com/gustavo-gava/dtmoney
+$ git clone https://github.com/mateusx111/dtmoney.git
 
 # Certifique-se de estar no caminho correto do projeto
 
@@ -38,7 +38,5 @@ $ yarn install
 
 # Rode o projeto
 $ yarn start
-
-# Estará disponível em: http://localhost:3000
-`
+```
 
